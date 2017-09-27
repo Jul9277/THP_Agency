@@ -5,20 +5,10 @@ class StaticController < ApplicationController
   def cursus
   end
 
-  def philosophie
-  end
-
-  def faq
-  end
-
   def contact
   end
 
-  def inscription
-  end
-
   def mentions
-    
   end
 
 end
