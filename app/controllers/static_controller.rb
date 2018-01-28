@@ -2,7 +2,7 @@ class StaticController < ApplicationController
   def home
   end
 
-  def cursus
+  def agence
   end
 
   def contact
@@ -11,4 +11,7 @@ class StaticController < ApplicationController
   def mentions
   end
 
+  def realisation
+  	
+  end
 end
