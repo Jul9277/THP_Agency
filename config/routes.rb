@@ -1,7 +1,6 @@
 Rails.application.routes.draw do
 
   root 'static#home' 
-
   get '/agence', 		         to: 'static#agence'
   get '/realisation', 			 to: 'static#realisation'
   get '/mentions',           to: 'static#mentions'
